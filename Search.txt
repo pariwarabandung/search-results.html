@@ -6,8 +6,7 @@
 <!-- Put the following javascript before the closing </head> tag. -->
 <script>
   (function() {
-    var cx = '001996953378069571639:v7dqmfzkl84
-';
+    var cx = '001996953378069571639:v7dqmfzkl84';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
